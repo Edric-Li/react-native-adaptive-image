@@ -1,3 +1,5 @@
-import AdaptedImage from "./lib";
+import AdaptedImage, {setBaseUrl, getBaseUrl} from "./lib";
 
-export default AdaptedImage;
+export {setBaseUrl, getBaseUrl}
+
+export default AdaptedImage
