@@ -5,8 +5,6 @@
 
 `$ npm install react-native-adaptive-image --save`
 
-##Props
-
 ## Usage
 ```javascript
 import AdaptedImage from 'react-native-adaptive-image';
